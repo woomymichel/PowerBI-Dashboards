@@ -1,0 +1,1 @@
+Hi, my name is Woomy and I am a data analyst with experience in education, healthcare and consulting. Here you can view all my PowerBI dashboards and track my progress with me as I learn to use this data visualization tool.
